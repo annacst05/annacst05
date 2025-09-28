@@ -4,9 +4,8 @@
 Bem- vindo! fique a vontade para conhecer um pouco do meu espaço e saber um pouco sobre mim. 😊
 
 ## ☕ Sobre mim 
-- 💻 Atualmente estou no primeiro período de **Ciências da Computação**.
+- 💻 Atualmente estou no segundo período de **Ciências da Computação**.
 - 🎮 Amo jogos, dentre eles são: _**Dark Soul**_, _**Resident Evil**_ e _**Poppy Playtime**_.
-- 📖 Sou escritora iniciante também. _:)_
 - 💼 Tenho interesse na área de **[full stack]**.
 - 👾 Ainda estou conhecendo esse mundo vasto que é da área de tecnologia (teremos que ter paciência kk😅)
 
